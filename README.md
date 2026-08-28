@@ -1,46 +1,75 @@
-###  👋  UtilCoin the Ultimate Utility Project
+# � $UTIL — The Multichain Utility Memecoin
 
-<!--
-**utilcoin/utilcoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Born on Cardano. Expanding to EVM. Built for the culture.**
 
-Here are some ideas to get you started:
+$UTIL started as a Cardano utility token — and it's not stopping there. We're taking the utility backbone that got us here and wrapping it in pure memecoin energy, expanding to **Robinhood Chain (EVM)** and beyond, with **Real World Assets (RWA)** as the long-term utility layer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-✨
-Welcome to the extraordinary world of UtilCoin,
-an innovative utility token designed
-to revolutionize the Cardano ecosystem.
+---
 
-With unwavering commitment to
-breaking boundaries and empowering supporters,
-UtilCoin is poised to redefine
-what is possible in the cryptocurrency space.
+## 🌐 Multichain by Design
 
-By offering unlimited utility,
-fostering a thriving utilities of
-FTs & NFTs, DeFis & AIs
-and forging partnerships with leading projects,
-we are positioning UtilCoin as the token to hold
-with the next bull run in mind.
-✨
+| Chain | Status | Token Standard |
+|-------|--------|----------------|
+| **Cardano** | ✅ Live | Native Token (CIP-25) |
+| **Robinhood Chain (EVM)** | 🚀 Expanding | ERC-20 |
+| **More EVM chains** | 👀 Planned | ERC-20 |
 
-UtilCoin distinguishes itself from others by offering unlimited possibilities for utilization. We work hard to forge partnerships and establish strong connections with projects that will bring us closer to decentralized and better future that, we beleive, is possible to achieve.
-This will allow our holders to unlock a wide range of benefits, creating an atmosphere of excitement and engagement within our community.
+**Cardano Policy ID:**
+```
+0d90046ad35546156aaf790525133f7fc713ca2790e397784b85f5c8
+```
 
-UtilCoin recognizes the growing importance of both fungible (FT) and non fungible tokens (NFT) and embraces their potential as a powerful means of expression and value creation.
-We are fully committed to building an extraordinary ecosystem that will allow users to enjoy and monetize their experience in different areas that might include collecting/creating, gaming, metaverse, AI, DeFi, Governance...We aim to foster creativity and diversity of our community.
+---
 
+## 🧬 The $UTIL Thesis
 
-To solidify UtilCoin's position as a formidable player in the cryptocurrency market, we're actively working
-on implementing and testing various integration system and mechanisms that will allow users to seemlesly explore and utilize the vast universe of posibilities accross the blockchains.
-These alliances with renowned platforms, protocols and communities will generate synergistic relationships, driving our growth and enhancing our visibility.
+1. **Utility backbone** — real integrations, real use cases, no vaporware.
+2. **Memecoin energy** — culture moves markets. We speak fluent meme.
+3. **Multichain reach** — liquidity and community on every chain that matters.
+4. **RWA ambitions** — the serious layer under the meme, as the project matures.
 
-At the heart of UtilCoin is the belief that every individual has the potential to make a meaningful impact. Our goal is to empower our unitholders by giving them a voice in development and decision-making processes. Through community governance initiatives, UtilCoin's unitholders will shape the future of the project, ensuring a truly decentralized and inclusive environment. 👯
+---
+
+## 🗺️ Roadmap
+
+- **Phase 1 — Foundation** ✅ Cardano launch, pre-sale, Minswap liquidity
+- **Phase 2 — Multichain Expansion** 🚀 Robinhood Chain (EVM) deployment, ERC-20 $UTIL, EVM DEX liquidity
+- **Phase 3 — Culture & Community** 🔥 Memecoin content engine, Twitter/X revival, community campaigns
+- **Phase 4 — RWA Utility Layer** 🏠 Real-world asset integrations & governance
+
+Full details: [Roadmap](https://utilcoin.github.io/utilcoin/roadmap.html)
+
+---
+
+## 🔗 Links
+
+- 🌍 **Website:** https://utilcoin.github.io/utilcoin
+- 🐦 **Twitter/X:** https://x.com/
+- 📊 **Tokenomics:** https://utilcoin.github.io/utilcoin/tokenomics.html
+- 📄 **Whitepaper:** https://utilcoin.github.io/utilcoin/static/white-paper.pdf
+- 📫 **Contact:** utiladacoin@gmail.com
+
+---
+
+## 🛠️ Repository Structure
+
+```
+utilcoin/
+├── README.md              # You are here
+├── docs/                  # Website (GitHub Pages)
+│   ├── index.html         # Landing page
+│   ├── tokenomics.html    # Tokenomics
+│   ├── roadmap.html       # Roadmap
+│   └── static/            # Assets (CSS, images, whitepaper)
+└── LICENSE                # CC0 1.0 Universal
+```
+
+---
+
+## ⚠️ Disclaimer
+
+$UTIL is a community-driven project. Nothing here constitutes financial advice. Cryptocurrencies are volatile — never invest more than you can afford to lose. DYOR.
+
+---
+
+💚 **Join the movement. Shape the multichain future.** �
